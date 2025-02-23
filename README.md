@@ -35,7 +35,7 @@ CarDashBoard is a **JDBC + Servlet + JSP**-based web application that lets you *
 ### 🚀 How to Run  
 1️⃣ Clone the repo:  
 ```sh
-git clone https://github.com/yourusername/CarDashBoard.git
+git clone https://github.com/sampat646/CarDashBoard.git
 ```  
 2️⃣ Configure MySQL Database & Update `db.properties`.  
 3️⃣ Deploy on Tomcat Server.  
